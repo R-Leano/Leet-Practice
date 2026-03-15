@@ -24,8 +24,7 @@ public class TwoSumTest {
         ArrayList simple = new ArrayList<>();
         int target = 9;
 
-        simple = [2, 7]
-        
-        assertThat()
+        simple = [2, 7];
+        asertThat(simple.TwoSum()).isExactly(9);
     }
 }
