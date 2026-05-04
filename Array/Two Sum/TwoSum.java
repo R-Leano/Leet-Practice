@@ -8,3 +8,10 @@
 class TwoSum
     
     public int[] 
+
+
+    deliveryLogs
+    size == n  
+    i = deliveries in log
+
+    k = 2w, w warehouse
