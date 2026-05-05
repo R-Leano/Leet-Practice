@@ -5,13 +5,8 @@
  * and you may not use the same element twice.
  * You can return the answer in any order.
  */
-class TwoSum
+class TwoSum {
     
-    public int[] 
-
-
-    deliveryLogs
-    size == n  
-    i = deliveries in log
-
-    k = 2w, w warehouse
+    public int[] twoSum(int[] nums, int target) {
+    }
+}
