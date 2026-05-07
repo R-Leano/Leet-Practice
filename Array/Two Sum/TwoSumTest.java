@@ -26,6 +26,5 @@ public class TwoSumTest {
 
         simple = [2, 7];
         asertThat(simple.TwoSum()).isExactly(9);
-        
     }
 }
