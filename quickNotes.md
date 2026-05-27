@@ -5,3 +5,4 @@ index. If our hashmap contains the complement, we return the value of the comple
 index. If our hashmap does not contain the complement, we add the current element and it's index into our hashmap.
 
 ## Add Two Numbers
+Simplely return the sum of the two integers
