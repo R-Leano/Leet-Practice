@@ -6,3 +6,6 @@ index. If our hashmap does not contain the complement, we add the current elemen
 
 ## Add Two Numbers
 Simplely return the sum of the two integers
+
+### Squares of Sorted Array
+We'll use a two pointer approach
